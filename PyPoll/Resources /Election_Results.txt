@@ -1,0 +1,11 @@
+Election Results
+--------------------------------
+Total Votes: 3521001
+Candidates Running['Khan', 'Correy', 'Li', "O'Tooley"]
+--------------------------------
+Khan :221823163.0%
+Correy :70420020.0%
+Li :49294014.0%
+O'Tooley :1056303.0%
+--------------------------------
+Winner: Khan 
